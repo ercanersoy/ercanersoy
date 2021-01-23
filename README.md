@@ -30,7 +30,7 @@
 
 ### Libraries for MS-DOS and FreeDOS
 
-[https://github.com/ercanersoy/D-Flat](https://github.com/ercanersoy/D-Flat)
+[D-Flat](https://github.com/ercanersoy/D-Flat)
 
 ### Microcontroller Applications
 
