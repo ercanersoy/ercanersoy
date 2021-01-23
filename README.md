@@ -44,7 +44,7 @@
 
 ### PIC Microcontroller Libraries
 
-[PIC XC8 USART Library](https://github.com/ercanersoy/PIC-XC8-USART-Library)
-
 [PIC XC8 HD44780 Library](https://github.com/ercanersoy/PIC-XC8-HD44780-Library)
+
+[PIC XC8 USART Library](https://github.com/ercanersoy/PIC-XC8-USART-Library)
 
