@@ -17,6 +17,7 @@
 ### Retro Software Projects
 
 [FDTUI](https://github.com/ercanersoy/FDTUI)
+
 [Minibox](https://github.com/ercanersoy/Minibox)
 
 ## Other Repositories
@@ -24,6 +25,7 @@
 ### Code Examples
 
 [QucikBASIC Examples](https://github.com/ercanersoy/QuickBASIC-Examples)
+
 [Python Examples](https://github.com/ercanersoy/Python-Examples)
 
 ### Libraries for MS-DOS and FreeDOS
@@ -37,10 +39,12 @@
 ### References
 
 [Huffman Compression Program](https://github.com/ercanersoy/Huffman-Compression-Program)
+
 [LC-3](https://github.com/ercanersoy/LC-3)
 
 ### PIC Microcontroller Libraries
 
 [PIC XC8 USART Library](https://github.com/ercanersoy/PIC-XC8-USART-Library)
+
 [PIC XC8 HD44780 Library](https://github.com/ercanersoy/PIC-XC8-HD44780-Library)
 
