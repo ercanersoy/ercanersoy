@@ -2,21 +2,33 @@
 
 ## Projects
 
-### Bioinformatics Projects
+### Bootloader
 
-[lsprotein](https://github.com/ercanersoy/lsprotein)
-
-### Font Projects
-
-[Font Library](https://github.com/ercanersoy/Font-Library)
-
-### Low-Level Projects
+A yet another bootloader 
 
 [Bootloader](https://github.com/ercanersoy/Bootloader)
 
-### Retro Software Projects
+### FDTUI
+
+DOSSHELL command for FreeDOS 
 
 [FDTUI](https://github.com/ercanersoy/FDTUI)
+
+### Font Library
+
+This library is useful for GLCDs and LED boards
+
+[Font Library](https://github.com/ercanersoy/Font-Library)
+
+### lsprotein
+
+Protein lister on command line interface
+
+[lsprotein](https://github.com/ercanersoy/lsprotein)
+
+### Minibox
+
+Small Linux commands for resource limited systems
 
 [Minibox](https://github.com/ercanersoy/Minibox)
 
