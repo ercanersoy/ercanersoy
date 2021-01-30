@@ -1,6 +1,12 @@
 # Ercan Ersoy
 
-## Projects
+## Electronic Projects
+
+### Sound Amplifier
+
+[Sound-Amplifier](https://github.com/ercanersoy/Sound-Amplifier)
+
+## Software Projects
 
 ### Bootloader
 
