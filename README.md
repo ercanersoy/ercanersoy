@@ -4,6 +4,8 @@
 
 ### Sound Amplifier
 
+A basic and powerful mono sound amplifier.
+
 [Sound Amplifier](https://github.com/ercanersoy/Sound-Amplifier)
 
 ## Software Projects
