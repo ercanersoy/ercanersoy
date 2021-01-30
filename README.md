@@ -4,7 +4,7 @@
 
 ### Sound Amplifier
 
-[Sound-Amplifier](https://github.com/ercanersoy/Sound-Amplifier)
+[Sound Amplifier](https://github.com/ercanersoy/Sound-Amplifier)
 
 ## Software Projects
 
