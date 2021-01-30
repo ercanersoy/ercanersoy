@@ -4,13 +4,13 @@
 
 ### Game Console
 
-A Uzebox based game console.
+A Uzebox based game console
 
 [Game Console](https://github.com/ercanersoy/Game-Console)
 
 ### Sound Amplifier
 
-A basic and powerful mono sound amplifier.
+A basic and powerful mono sound amplifier
 
 [Sound Amplifier](https://github.com/ercanersoy/Sound-Amplifier)
 
