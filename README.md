@@ -34,12 +34,6 @@ This library is useful for GLCDs and LED boards
 
 [Font Library](https://github.com/ercanersoy/Font-Library)
 
-### lsprotein
-
-Protein lister on command line interface
-
-[lsprotein](https://github.com/ercanersoy/lsprotein)
-
 ### Minibox
 
 Small Linux commands for resource limited systems
@@ -74,3 +68,6 @@ Small Linux commands for resource limited systems
 
 [PIC XC8 USART Library](https://github.com/ercanersoy/PIC-XC8-USART-Library)
 
+## Old Codes
+
+[lsprotein](https://github.com/ercanersoy/lsprotein)
