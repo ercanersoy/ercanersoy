@@ -52,10 +52,6 @@ Small Linux commands for resource limited systems
 
 [D-Flat](https://github.com/ercanersoy/D-Flat)
 
-### Microcontroller Applications
-
-[Microcontroller Based Server Computer](https://github.com/ercanersoy/Microcontroller-Based-Server-Computer)
-
 ### References
 
 [Huffman Compression Program](https://github.com/ercanersoy/Huffman-Compression-Program)
@@ -71,3 +67,5 @@ Small Linux commands for resource limited systems
 ### Old Codes
 
 [lsprotein](https://github.com/ercanersoy/lsprotein)
+
+[Microcontroller Based Server Computer](https://github.com/ercanersoy/Microcontroller-Based-Server-Computer)
