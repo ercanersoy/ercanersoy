@@ -66,6 +66,8 @@ Small Linux commands for resource limited systems
 
 ### Old Codes
 
+[Chat Server](https://github.com/ercanersoy/Chat-Server)
+
 [lsprotein](https://github.com/ercanersoy/lsprotein)
 
 [Microcontroller Based Server Computer](https://github.com/ercanersoy/Microcontroller-Based-Server-Computer)
