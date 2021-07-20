@@ -50,7 +50,7 @@ Small Linux commands for resource limited systems
 
 ### Code Examples
 
-[QucikBASIC Examples](https://github.com/ercanersoy/QuickBASIC-Examples)
+[QBasic Examples](https://github.com/ercanersoy/QBasic-Examples)
 
 [Python Examples](https://github.com/ercanersoy/Python-Examples)
 
