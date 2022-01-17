@@ -12,7 +12,7 @@
 
 [Sound Amplifier](https://github.com/ercanersoy/Sound-Amplifier)
 
-## Other Codes
+# Other Codes
 
 [Font Library](https://github.com/ercanersoy/Font-Library)
 
