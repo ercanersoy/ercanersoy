@@ -12,7 +12,11 @@
 
 # Other Codes
 
+[D-Flat](https://github.com/ercanersoy/D-Flat)
+
 [Font Library](https://github.com/ercanersoy/Font-Library)
+
+[Huffman-Compression-Program](https://github.com/ercanersoy/Huffman-Compression-Program)
 
 [PIC XC8 HD44780 Library](https://github.com/ercanersoy/PIC-XC8-HD44780-Library)
 
