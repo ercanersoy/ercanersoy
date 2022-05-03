@@ -10,8 +10,6 @@
 
 [Minibox](https://github.com/ercanersoy/Minibox)
 
-[Sound Amplifier](https://github.com/ercanersoy/Sound-Amplifier)
-
 # Other Codes
 
 [Font Library](https://github.com/ercanersoy/Font-Library)
