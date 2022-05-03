@@ -14,8 +14,6 @@
 
 [Font Library](https://github.com/ercanersoy/Font-Library)
 
-[GRUB Compact Theme](https://github.com/ercanersoy/GRUB-Compact-Theme)
-
 [LC-3](https://github.com/ercanersoy/LC-3)
 
 [PIC XC8 HD44780 Library](https://github.com/ercanersoy/PIC-XC8-HD44780-Library)
