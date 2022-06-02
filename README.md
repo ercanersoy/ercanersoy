@@ -18,6 +18,8 @@
 
 [Huffman Compression Program](https://github.com/ercanersoy/Huffman-Compression-Program)
 
+[LC-3](https://github.com/ercanersoy/LC-3)
+
 [PIC XC8 HD44780 Library](https://github.com/ercanersoy/PIC-XC8-HD44780-Library)
 
 [PI XC8 USART Library](https://github.com/ercanersoy/PIC-XC8-USART-Library)
