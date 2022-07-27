@@ -22,6 +22,6 @@
 
 [PIC XC8 HD44780 Library](https://github.com/ercanersoy/PIC-XC8-HD44780-Library)
 
-[PI XC8 USART Library](https://github.com/ercanersoy/PIC-XC8-USART-Library)
+[PIC XC8 USART Library](https://github.com/ercanersoy/PIC-XC8-USART-Library)
 
 [SI Measurement Units Library](https://github.com/ercanersoy/SI-Measurement-Units-Library)
