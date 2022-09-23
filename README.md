@@ -10,13 +10,9 @@
 
 [Minibox](https://github.com/ercanersoy/Minibox)
 
-# Other Codes
-
-[D-Flat](https://github.com/ercanersoy/D-Flat)
+# My Other Codes
 
 [Font Library](https://github.com/ercanersoy/Font-Library)
-
-[Huffman Compression Program](https://github.com/ercanersoy/Huffman-Compression-Program)
 
 [LC-3](https://github.com/ercanersoy/LC-3)
 
