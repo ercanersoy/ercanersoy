@@ -16,6 +16,8 @@
 
 [LC-3](https://github.com/ercanersoy/LC-3)
 
+[LVGL Template](https://github.com/ercanersoy/LVGL-Template)
+
 [PIC XC8 HD44780 Library](https://github.com/ercanersoy/PIC-XC8-HD44780-Library)
 
 [PIC XC8 USART Library](https://github.com/ercanersoy/PIC-XC8-USART-Library)
