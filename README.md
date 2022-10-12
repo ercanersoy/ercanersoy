@@ -23,3 +23,11 @@
 [PIC XC8 USART Library](https://github.com/ercanersoy/PIC-XC8-USART-Library)
 
 [SI Measurement Units Library](https://github.com/ercanersoy/SI-Measurement-Units-Library)
+
+# Contributed Projects in My Profile
+
+[D-Flat](https://github.com/ercanersoy/D-Flat)
+
+[Huffman Compression Program](https://github.com/ercanersoy/Huffman-Compression-Program)
+
+[Linux](https://github.com/ercanersoy/my-patches-for-linux)
