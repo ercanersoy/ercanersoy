@@ -1,12 +1,8 @@
 # My Projects
 
-[Arduino Compatible Board](https://github.com/ercanersoy/Arduino-Compatible-Board)
-
 [Bootloader](https://github.com/ercanersoy/Bootloader)
 
 [FDTUI](https://github.com/ercanersoy/FDTUI)
-
-[Game Console](https://github.com/ercanersoy/Game-Console)
 
 [Minibox](https://github.com/ercanersoy/Minibox)
 
@@ -26,7 +22,11 @@
 
 # Contributed Projects in My Profile
 
+[Arduino Compatible Board](https://github.com/ercanersoy/Arduino-Compatible-Board)
+
 [D-Flat](https://github.com/ercanersoy/D-Flat)
+
+[Game Console](https://github.com/ercanersoy/Game-Console)
 
 [Huffman Compression Program](https://github.com/ercanersoy/Huffman-Compression-Program)
 
