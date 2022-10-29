@@ -6,7 +6,17 @@
 
 [Minibox](https://github.com/ercanersoy/Minibox)
 
-# Code Examples
+# My Libraries
+
+[Font Library](https://github.com/ercanersoy/Font-Library)
+
+[PIC XC8 HD44780 Library](https://github.com/ercanersoy/PIC-XC8-HD44780-Library)
+
+[PIC XC8 USART Library](https://github.com/ercanersoy/PIC-XC8-USART-Library)
+
+[SI Measurement Units Library](https://github.com/ercanersoy/SI-Measurement-Units-Library)
+
+# My Code Examples
 
 [Python Code Examples](https://github.com/ercanersoy/Python-Code-Examples)
 
@@ -14,19 +24,11 @@
 
 # My Other Codes
 
-[Font Library](https://github.com/ercanersoy/Font-Library)
-
 [GRUB Compact Theme](https://github.com/ercanersoy/GRUB-Compact-Theme)
 
 [LC-3](https://github.com/ercanersoy/LC-3)
 
 [LVGL Template](https://github.com/ercanersoy/LVGL-Template)
-
-[PIC XC8 HD44780 Library](https://github.com/ercanersoy/PIC-XC8-HD44780-Library)
-
-[PIC XC8 USART Library](https://github.com/ercanersoy/PIC-XC8-USART-Library)
-
-[SI Measurement Units Library](https://github.com/ercanersoy/SI-Measurement-Units-Library)
 
 # Contributed Projects in My Profile
 
