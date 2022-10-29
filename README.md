@@ -6,9 +6,17 @@
 
 [Minibox](https://github.com/ercanersoy/Minibox)
 
+# Code Examples
+
+[Python Code Examples](https://github.com/ercanersoy/Python-Code-Examples)
+
+[QBasic Code Examples](https://github.com/ercanersoy/QBasic-Code-Examples)
+
 # My Other Codes
 
 [Font Library](https://github.com/ercanersoy/Font-Library)
+
+[GRUB Compact Theme](https://github.com/ercanersoy/GRUB-Compact-Theme)
 
 [LC-3](https://github.com/ercanersoy/LC-3)
 
@@ -33,3 +41,5 @@
 [Linux](https://github.com/ercanersoy/my-patches-for-linux)
 
 [Poll Serial](https://github.com/ercanersoy/Poll-Serial)
+
+[PSF Fonts](https://github.com/ercanersoy/PSF-Fonts)
