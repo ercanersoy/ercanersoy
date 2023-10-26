@@ -2,7 +2,7 @@
 
 [Bootloader](https://github.com/ercanersoy/Bootloader)
 
-[Compability Manager](https://github.com/ercanersoy/Compability-Manager)
+[Compatibility Manager](https://github.com/ercanersoy/Compatibility-Manager)
 
 [FDTUI](https://github.com/ercanersoy/FDTUI)
 
