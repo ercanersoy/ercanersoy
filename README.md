@@ -28,6 +28,8 @@
 
 # My Other Codes
 
+[ESP32 Template](https://github.com/ercanersoy/ESP32-Template)
+
 [GRUB Compact Theme](https://github.com/ercanersoy/GRUB-Compact-Theme)
 
 [LC-3](https://github.com/ercanersoy/LC-3)
