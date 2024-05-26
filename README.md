@@ -4,6 +4,8 @@
 
 [Compatibility Manager](https://github.com/ercanersoy/Compatibility-Manager)
 
+[DOCX Viewer](https://github.com/ercanersoy/DOCX-Viewer)
+
 [FDTUI](https://github.com/ercanersoy/FDTUI)
 
 [Minibox](https://github.com/ercanersoy/Minibox)
