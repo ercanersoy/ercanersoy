@@ -1,6 +1,6 @@
 # My Projects
 
-[BMI Claculator](https://github.com/ercanersoy/BMI-Calculator)
+[BMI Calculator](https://github.com/ercanersoy/BMI-Calculator)
 
 [Bootloader](https://github.com/ercanersoy/Bootloader)
 
