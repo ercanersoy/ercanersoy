@@ -4,6 +4,8 @@
 
 [Bootloader](https://github.com/ercanersoy/Bootloader)
 
+[Chronometer](https://github.com/ercanersoy/Chronometer)
+
 [Compatibility Manager](https://github.com/ercanersoy/Compatibility-Manager)
 
 [DOCX Viewer](https://github.com/ercanersoy/DOCX-Viewer)
@@ -15,6 +17,8 @@
 [Mobile Desktop](https://github.com/ercanersoy/Mobile-Desktop)
 
 [Run](https://github.com/ercanersoy/Run)
+
+[Web Menu](https://github.com/ercanersoy/Web-Menu)
 
 # My Libraries
 
