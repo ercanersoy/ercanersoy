@@ -16,7 +16,11 @@
 
 [Mobile Desktop](https://github.com/ercanersoy/Mobile-Desktop)
 
+[Object Detector](https://github.com/ercanersoy/Object-Detector)
+
 [Run](https://github.com/ercanersoy/Run)
+
+[Velocity Car Race](https://github.com/ercanersoy/Velocity-Car-Race)
 
 [Web Menu](https://github.com/ercanersoy/Web-Menu)
 
