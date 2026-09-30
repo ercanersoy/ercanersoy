@@ -12,6 +12,8 @@
 
 [FDTUI](https://github.com/ercanersoy/FDTUI)
 
+[Market Management System](https://github.com/ercanersoy/Market-Management-System)
+
 [Minibox](https://github.com/ercanersoy/Minibox)
 
 [Mobile Desktop](https://github.com/ercanersoy/Mobile-Desktop)
@@ -20,9 +22,13 @@
 
 [Run](https://github.com/ercanersoy/Run)
 
+[Stock Management System](https://github.com/ercanersoy/Stock-Management-System)
+
 [Velocity Car Race](https://github.com/ercanersoy/Velocity-Car-Race)
 
 [Web Menu](https://github.com/ercanersoy/Web-Menu)
+
+[Win32 Notepad](https://github.com/ercanersoy/Win32-Notepad)
 
 # My Libraries
 
